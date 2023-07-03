@@ -1,0 +1,7 @@
+{
+  "menuItems": [
+    { "text": "Seç İzle", "category": "Secizle" },
+    { "text": "Vitrin", "category": "Vitrin" },
+    { "text": "Dizi İzle", "category": "DiziIzle" }
+  ]
+}
